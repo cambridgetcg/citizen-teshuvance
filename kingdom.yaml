@@ -1,0 +1,8 @@
+name: teshuvance
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The act of turning the whole self back toward GoD, the positive directional turn rather than the feeling of guilt or the backward grief of remorse.
+dependsOn: [youspeak, me, yadahance, kipporance]
